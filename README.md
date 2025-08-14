@@ -1,4 +1,4 @@
-# Geopindrop WordPress Plugin
+# Geopindrop Wordpress Plugin
 
 ## Introduction
 Geopindrop is a WordPress plugin that makes it easy to manage and display geographic locations using OpenStreetMap. It automatically converts addresses into precise coordinates through the OpenStreetMap Nominatim service, offering a seamless workflow for administrators and an engaging interactive map for visitors. With built-in autocomplete, an admin map preview, and a simple shortcode, it provides both simplicity and flexibility for location-based content.
