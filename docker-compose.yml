@@ -30,7 +30,7 @@ services:
       WORDPRESS_DB_NAME: wordpress
     volumes:
       - wp_data:/var/www/html
-      - ./osm-coordinates-plugin:/var/www/html/wp-content/plugins/osm-coordinates-plugin
+      - ./geopindrop-plugin/geopindrop.php:/var/www/html/wp-content/plugins/geopindrop-plugin/geopindrop.php
     networks:
       - wp_network
 

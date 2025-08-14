@@ -5,6 +5,8 @@
  * Version: 1.0
  * Author: Your Name
  * Text Domain: geopindrop
+ * Plugin URI: https://github.com/marcodondo97/WordpressPlugin-Geopindrop
+ * Author URI: https://github.com/marcodondo97
  */
 
 // Prevent direct access

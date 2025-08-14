@@ -22,6 +22,9 @@ docker-compose up -d
 2. Go to *Admin → Geopindrop*, fill in the details, and let the plugin auto-generate coordinates.  
 3. Insert the `[osm_map]` shortcode into any page or post to display your map.
 
+**Installation**
+1. Upload the `geopindrop-plugin` folder to `/wp-content/plugins/` or install via the WordPress admin panel.  
+2. Activate it under *WordPress Admin → Plugins*.
 
 ## Result
 <img src="docs/img/geopindrop-backoffice.png" width="40%">
