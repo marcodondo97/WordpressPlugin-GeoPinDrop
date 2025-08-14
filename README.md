@@ -8,11 +8,11 @@ The plugin integrates directly into your WordPress admin dashboard, allowing you
 
 On the public-facing side, the `[osm_map]` shortcode displays an interactive, responsive map with all stored coordinates. Visitors can explore the map, click markers for detailed pop-ups, and view the optimal zoom level to fit all locations. Whether for business listings, events, or personal projects, the plugin offers an efficient way to present location data in a visually appealing format.
 
-### Third-Party Technologies
+### Technologies Used
 - <a href="https://nominatim.openstreetmap.org/" >OpenStreetMap Nominatim</a> – Geocoding service to convert addresses into coordinates.
 - <a href="https://leafletjs.com/">Leaflet.js</a> – Lightweight JavaScript library for interactive maps.
 
-## Getting start
+### Getting start
 1. clone the repo and start docker container:
 ```bash
 git clone https://github.com/yourusername/geopindrop-plugin.git
