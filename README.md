@@ -12,7 +12,7 @@ On the public-facing side, the `[osm_map]` shortcode displays an interactive, re
 - <a href="https://nominatim.openstreetmap.org/" >OpenStreetMap Nominatim</a> – Geocoding service to convert addresses into coordinates.
 - <a href="https://leafletjs.com/">Leaflet.js</a> – Lightweight JavaScript library for interactive maps.
 
-### Getting start
+### Getting started
 1. clone the repo and start docker container:
 ```bash
 git clone https://github.com/yourusername/geopindrop-plugin.git
