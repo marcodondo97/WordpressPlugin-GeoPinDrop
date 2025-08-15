@@ -3,7 +3,7 @@
  * Plugin Name: Geopindrop
  * Description: Plugin to manage and display geographic coordinates on OpenStreetMap with automatic geocoding.
  * Version: 1.0
- * Author: Your Name
+ * Author: Marco Dondo
  * Text Domain: geopindrop
  * Plugin URI: https://github.com/marcodondo97/WordpressPlugin-Geopindrop
  * Author URI: https://github.com/marcodondo97
