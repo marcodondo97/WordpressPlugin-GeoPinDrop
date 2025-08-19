@@ -16,7 +16,7 @@ On the public-facing side, the `[osm_map]` shortcode displays an interactive, re
 1. clone the repo and start docker container:
 ```bash
 git clone https://github.com/yourusername/geopindrop-plugin.git
-cd geopindrop-plugin
+cd WordpressPlugin-GeoPinDrop
 docker-compose up -d
 ```
 2. Go to *Admin → Geopindrop*, fill in the details, and let the plugin auto-generate coordinates.  
@@ -27,5 +27,11 @@ docker-compose up -d
 2. Activate it under *WordPress Admin → Plugins*.
 
 ## Result
-<img src="docs/img/geopindrop-backoffice.png" width="40%">
-<img src="docs/img/geopindrop-shortcode.png" width="40%">
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="docs/img/geopindrop-backoffice.png" width="100%"/></td>
+    <td align="center"><img src="docs/img/geopindrop-shortcode.png" width="100%"/></td>
+  </tr>
+</table>
+</div>
